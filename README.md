@@ -13,7 +13,7 @@ This repository contains a personal portfolio website built using React, Three.j
 
 ## Demo
 
-Check out the live demo of the portfolio website: [React 3D Portfolio](http://www.mattcalimbas.com)
+Check out the live demo of the portfolio website: http://www.mattcalimbas.com 
 
 ## Features
 
