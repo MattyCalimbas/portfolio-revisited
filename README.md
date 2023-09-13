@@ -36,7 +36,7 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/react-3d-portfolio.git
+git clone https://github.com/yourusername/portfolio-revisited.git
 ```
 
 2. Navigate to the project directory:
