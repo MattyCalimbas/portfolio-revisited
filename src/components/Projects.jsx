@@ -7,6 +7,12 @@ import { atom, useAtom } from "jotai";
 import { useEffect, useRef } from "react";
 export const projects = [
     {
+        title: "Case Study 88",
+        url: "https://mattycalimbas.github.io/case-study-88/index.html",
+        image: "projects/demoImg1.png",
+        description: "WordPress static website proposal created to showcase and present a front-end facelift for a design firm. The website has been built using the Blocksy theme, Elementor and AI imagery via Midjourney, providing a visually appealing and interactive presentation of the proposed changes.",
+    },
+    {
         title: "Shrink Boxing",
         url: "https://mattycalimbas.github.io/fatboyshrinkboxing/",
         image: "projects/boxingProject.jpg",
